@@ -1,2 +1,5 @@
-.webm
-.pdf
+*.pdf
+*.pptx
+*Task*.ipynb
+!*HomeTask*.ipynb
+videos/
