@@ -1,5 +1,8 @@
 *.pdf
 *.pptx
+*.webm
+*.zip
 *Task*.ipynb
+*Practice*.ipynb
 !*HomeTask*.ipynb
 videos/
