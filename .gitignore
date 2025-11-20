@@ -1,8 +1,15 @@
 *.pdf
+*.ppt
 *.pptx
 *.webm
 *.zip
-*Task*.ipynb
-*Practice*.ipynb
+*.tar
+*.docx
+*.doc
+*.xlsx
+*.ipynb
+*.pth
 !*HomeTask*.ipynb
 videos/
+data/
+KTH_TIPS/
